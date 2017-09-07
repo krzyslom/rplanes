@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# package
+DESCRIPTION
+NAMESPACE
+
+# code
+/R
+
+# data
+/data
+
+# shinyapps
+/app/rsconnect

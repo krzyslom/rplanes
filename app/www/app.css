@@ -1,0 +1,11 @@
+.shiny-output-error-render {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
+
+.shiny-output-error-render.plot {
+  position: absolute;
+  width: 100%;
+  margin-top: 8em;
+}
